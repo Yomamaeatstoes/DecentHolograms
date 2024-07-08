@@ -5,6 +5,7 @@ softdepend:
   - "HeadDatabase"
   - "ProtocolLib"
 name: "DecentHolograms"
+folia-supported: true
 description: ${description}
 version: ${version}
 author: d0by
